@@ -24,6 +24,7 @@ const Count=()=>{
     
     
     <div className="one">
+        <h1>Counter App</h1>
         
         <h1>{value}</h1>
         <div className="two">
